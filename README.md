@@ -1,4 +1,5 @@
-### 👋 Oh hey, I’m @mcmiller905
+### 👋 Oh hey, I’m Mike
+This is my personal GitHub that contains all my hobby projects and personal work
 - 👀 I’m interested in building games and creating fun solutions to everyday inconveniences
 - 🌱 I’m currently learning Python, JavaScript, C#, Node.js
 
